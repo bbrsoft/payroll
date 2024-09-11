@@ -143,13 +143,5 @@ Dashboard Login sebagai Pegawai
 Data Gaji Pegawai
 ![Data Gaji Pegawai2](https://user-images.githubusercontent.com/87837561/212536105-bc8cc828-9644-460a-bcea-4c8323440a1f.png)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHOR -->
-## Author
-
-* **Fariz Nurfadillah** 
-* **Teknik Informatika**
-* **A11.2018.11018** 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
